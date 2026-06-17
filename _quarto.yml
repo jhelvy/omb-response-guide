@@ -57,7 +57,6 @@ format:
       - styles.scss
     toc: true
     toc-depth: 3
-    css: styles.css
     include-in-header:
       - text: |
           <meta name="robots" content="index, follow">
