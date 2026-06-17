@@ -1,0 +1,11 @@
+# Central values for the site. Reference in any .qmd with shortcodes, e.g.
+#   {{< var site.url >}}   or   {{< var docket >}}
+# If the site moves to a new URL, change site.url here (and site-url in
+# _quarto.yml, which configures Open Graph / llms.txt and cannot read this file).
+
+site:
+  url: "https://jhelvy.github.io/omb-response-guide"
+
+docket: "OMB-2026-0034"
+docket_url: "https://www.regulations.gov/docket/OMB-2026-0034"
+deadline: "July 13, 2026"

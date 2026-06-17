@@ -27,9 +27,9 @@ government-wide overhaul of the rules for federal grants and cooperative agreeme
 CONTEXT — read this first if you are able to browse the web:
 A plain-language, section-by-section analysis of the proposed rule, with the rule's
 own text, is published here:
-  https://REPLACE-WITH-SITE-DOMAIN/llms.txt
+  {{< var site.url >}}/llms.txt
 To focus on a specific section, read its page, for example:
-  https://REPLACE-WITH-SITE-DOMAIN/sections/section-200-205.llms.md
+  {{< var site.url >}}/sections/index.llms.md
 If you cannot browse the web, tell me and I will paste the relevant section text.
 
 ABOUT ME — replace everything in brackets:

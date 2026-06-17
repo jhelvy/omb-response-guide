@@ -13,7 +13,9 @@ website:
     public comment before the deadline.
   # Generates llms.txt + per-page .llms.md (requires Quarto >= 1.7)
   llms-txt: true
-  site-url: "https://example.org"
+  # Keep in sync with site.url in _variables.yml (this config cannot read that file).
+  site-url: "https://jhelvy.github.io/omb-response-guide"
+  repo-url: "https://github.com/jhelvy/omb-response-guide"
   open-graph: true
   twitter-card: true
   search:
@@ -39,7 +41,7 @@ website:
       - text: "About"
         href: about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/jhelvy/omb-response-guide
         aria-label: GitHub
   page-footer:
     border: true
@@ -48,7 +50,7 @@ website:
     center: >-
       Comment deadline: **July 13, 2026** · Docket **OMB-2026-0034**
     right: >-
-      Built with [Quarto](https://quarto.org). Source on [GitHub](https://github.com/).
+      Built with [Quarto](https://quarto.org). Source on [GitHub](https://github.com/jhelvy/omb-response-guide).
 
 format:
   html:
