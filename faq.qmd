@@ -45,7 +45,7 @@ both less effective and a credibility risk.
 This rule does **not** change negotiated indirect cost rates. Congress blocked a proposed 15%
 cap in the FY2026 appropriations bills, so the rule leaves the indirect-cost system as-is. The
 changes that matter here are about peer review, terminations, prohibitions, and communication
-costs — see [the section guide](sections/index.qmd).
+costs — see [the section guide](the-rule.qmd).
 
 ## When would this take effect?
 

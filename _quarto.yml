@@ -3,7 +3,10 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
-    - "sections/*.qmd"
+  # Copy the GitHub Pages custom-domain file into _site on every build so it
+  # survives the gh-pages republish.
+  resources:
+    - CNAME
 
 website:
   title: "Comment on the OMB Rule"
@@ -14,7 +17,7 @@ website:
   # Generates llms.txt + per-page .llms.md (requires Quarto >= 1.7)
   llms-txt: true
   # Keep in sync with site.url in _variables.yml (this config cannot read that file).
-  site-url: "https://jhelvy.github.io/omb-response-guide"
+  site-url: "https://defendfederalresearch.org"
   repo-url: "https://github.com/jhelvy/omb-response-guide"
   open-graph: true
   twitter-card: true
@@ -27,12 +30,16 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "The Rule"
+        href: the-rule.qmd
+      - text: "Claims vs. Reality"
+        href: claims-vs-reality.qmd
       - text: "How to Comment"
         href: how-to-comment.qmd
       - text: "Draft with AI"
         href: draft-with-ai.qmd
-      - text: "The Rule"
-        href: sections/index.qmd
+      - text: "Contact Congress"
+        href: contact-congress.qmd
       - text: "FAQ"
         href: faq.qmd
       - text: "Resources"

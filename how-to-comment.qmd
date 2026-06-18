@@ -22,7 +22,7 @@ you can do.**
 
 ## Step by step
 
-1. **Pick the section(s) that affect you.** Browse the [section-by-section guide](sections/index.qmd)
+1. **Pick the section(s) that affect you.** Browse the [section-by-section guide](the-rule.qmd)
    and choose the one or two changes that touch your work most directly. Focused beats broad.
 
 2. **Write from your own experience.** In a few short paragraphs, explain who you are, what
@@ -72,6 +72,9 @@ comments create a hundred items the agency must address. **Personalize. Be speci
 ## After you submit
 
 - Save your regulations.gov tracking number.
+- **Send the same message to your members of Congress.** Comments go to OMB; Congress is a
+  separate, powerful lever. See [Contact Congress](contact-congress.qmd) to find your
+  representatives and reuse what you wrote.
 - Encourage colleagues to write their *own* comments (share the [resources](resources.qmd) and
   this guide). Aim for breadth and specificity, not copies.
 - Consider asking your department, scientific society, or institution to file an organizational

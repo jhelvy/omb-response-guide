@@ -29,7 +29,7 @@ A plain-language, section-by-section analysis of the proposed rule, with the rul
 own text, is published here:
   {{< var site.url >}}/llms.txt
 To focus on a specific section, read its page, for example:
-  {{< var site.url >}}/sections/index.llms.md
+  {{< var site.url >}}/the-rule.llms.md
 If you cannot browse the web, tell me and I will paste the relevant section text.
 
 ABOUT ME — replace everything in brackets:
@@ -57,7 +57,7 @@ before I submit.
 browsing): it will read our analysis at `llms.txt` and the specific section pages, so its
 draft reflects what the rule actually says.
 
-**If it can't browse:** open the [section guide](sections/index.qmd), copy the text of the
+**If it can't browse:** open the [section guide](the-rule.qmd), copy the text of the
 section(s) you care about into the chat when it asks, and it will work from that.
 
 ::: {.callout-tip}
